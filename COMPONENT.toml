@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-daemon-apt"
-description = "SigmaOS subsystem component for daemon-apt"
+description = "Privileged apt D-Bus daemon"
 version = "0.1.0"
 tier = 2
 
